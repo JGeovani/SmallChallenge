@@ -1,3 +1,5 @@
+package br.org.estudarfora;
+
 import java.util.Scanner;
 
 public class ExampleChallenge {
